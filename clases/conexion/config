@@ -1,0 +1,17 @@
+{
+
+    "conexion":{
+
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "" ,
+        "database" : "estudiante",
+        "port" : "3306"
+
+
+    }
+
+
+
+
+}
